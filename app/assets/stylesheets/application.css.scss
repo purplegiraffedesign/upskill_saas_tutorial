@@ -67,3 +67,9 @@ h1, h2, h3 {
     padding-top: 50px;
     padding-bottom: 100px;
 }
+
+// Hiding log in and log out messages
+
+.alert-notice {
+    display: none;
+}
